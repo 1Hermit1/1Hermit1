@@ -1,6 +1,6 @@
 let area = document.getElementById('gameArea');
 let ctx = area.getContext('2d');
-
+//изменение для гитхаба
 //блоки 
 let box = new Image ()
 box.src = 'Free/Items/Boxes/Box1/Idle.png'
